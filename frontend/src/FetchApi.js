@@ -3,7 +3,6 @@ import React from 'react';
 export default class FetchApi extends React.Component {
     state = {
         loading: true,
-        refresh: false,
         employees: null,
     };
 
