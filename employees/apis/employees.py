@@ -1,6 +1,5 @@
 """
-Copy data in a NoSQL database and create a
-classified version for another NoSQL database.
+Create & delete employee records in a Firestore database
 """
 # Third party imports
 from flask import jsonify, request

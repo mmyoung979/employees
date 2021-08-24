@@ -141,3 +141,6 @@ firebase-sdk.json
 
 # VS Code
 .vscode/
+
+# MacOS stuff
+.DS_STORE

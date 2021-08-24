@@ -1,8 +1,7 @@
 """
 Example code by Matthew Young August 2021
 
-This project copies data from one NoSQL database to another
-and creates a classified version of it for another database.
+Create & delete employees from a Firestore database
 """
 # Python imports
 from os import makedirs
